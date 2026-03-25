@@ -383,6 +383,6 @@ If you use this work, please cite:
   author       = {Thai-Hung Bui},
   title        = {Bug Severity Level Prediction},
   year         = {2026},
-  howpublished = {\url{https://github.com/ntphuc149/BugServerityLevelPrediction}}
+  howpublished = {\url{https://github.com/buithaihung/BugServerityLevelPrediction}}
 }
 ```
