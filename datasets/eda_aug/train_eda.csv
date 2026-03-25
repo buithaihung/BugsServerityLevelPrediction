@@ -1,0 +1,10 @@
+﻿text,priority
+add additional states for running a server daemon the current states are and it would be nice to have transition state starting and stopping,Major
+add additional transition states for running a server daemon the current states are start and started it would be nice to have transition state jump and stopping,Major
+add additional transition states for running a server daemon the current states are start and started it would be nice to have transition state commence and stopping,Major
+add additional transition states for running a host daemon the current states are start and started it would be nice to have transition state starting and stopping,Major
+add transition states for running a server daemon the current start and started it would be nice to have transition state starting and stopping,Major
+add additional transition states for running a server daemon the current states are started it would be nice to have transition state starting and stopping,Major
+add additional transition states for running a server daemon the flow states are start and started it would be nice to have transition state starting and stopping,Major
+additional transition states for running a server daemon the current and started it would be to have transition state starting and stopping,Major
+add additional transition states for running a server demigod the current states are start and started it would be nice to have transition state starting and stopping,Major
