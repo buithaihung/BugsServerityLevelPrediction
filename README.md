@@ -380,7 +380,7 @@ If you use this work, please cite:
 
 ```bibtex
 @misc{bsp2026,
-  author       = {Tuong-Phuc Nguyen},
+  author       = {Thai-Hung Bui},
   title        = {Bug Severity Level Prediction},
   year         = {2026},
   howpublished = {\url{https://github.com/ntphuc149/BugServerityLevelPrediction}}
